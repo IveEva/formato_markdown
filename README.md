@@ -2,6 +2,60 @@
 ## 1) ¿Qué es Markdown?
 Markdown es un lenguaje de marcado ligero que permite aplicar formato a un texto (negritas, listas, encabezados) mediante el uso de caracteres especiales de forma sencilla. Existe para facilitar la escritura y lectura de contenido web sin las complicaciones técnicas del HTML, permitiendo que el autor se concentre en el contenido mientras el documento sigue siendo legible incluso en su forma de código fuente.
 
+# Título Nivel 1
+## Título Nivel 2
+### Título Nivel 3
+#### Título Nivel 4
+
+Negrita: **texto** o __texto__
+
+Cursiva: *texto* o _texto_
+
+Negrita y cursiva: ***texto***
+
+~~Tachado:~~ ~~texto~~
+
+Listas desordenada:
+* Elemento 1
+* Elemento 2
+  * Subelemento 2.1
+
+Listas ordenadas:
+1. Primero
+2. Segundo
+3. Tercero
+
+Estructura, enlace e imágenes:
+Enlace: [Nombre del enlace](https://www.google.com)
+
+Imagen: ![Texto alternativo](url_de_la_imagen.jpg)
+
+Bloque de código:
+Para mostrar código de programación o texto preformateado.
+
+Código en línea: Para resaltar algo como esto dentro de una frase, usa una comilla simple invertida: `código`.
+
+Bloque de código: Usa tres comillas invertidas (backticks). Puedes especificar el lenguaje para que resalte la sintaxis.
+
+def saludar():
+    print("Hola, mundo")
+
+Citas (Blockquotes)
+Para destacar frases de otros autores o notas importantes.
+
+"El diseño no es solo lo que se ve, sino cómo funciona." - Steve Jobs.
+
+Tablas:
+| Herramienta | Función | Utilidad |
+| :--- | :---: | ---: |
+| Markdown | Estructura | Alta |
+| LaTeX | Fórmulas | Técnica |
+
+---
+
+Líneas horizontales
+Para separar secciones visualmente, usa tres guiones: ---.
+
 ## 2) Origen e historia de Markdown
 Fue creado por John Gruber, con la colaboración de Aaron Swartz, en el año 2004. El propósito original era permitir a los usuarios escribir en un formato de texto plano fácil de leer y escribir, que pudiera convertirse automáticamente en HTML estructuralmente válido, cerrando la brecha entre el texto simple y el diseño web.
 
