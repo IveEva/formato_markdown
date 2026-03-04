@@ -20,7 +20,7 @@ y la gestión de notas personales en aplicaciones de productividad.
 También es el estándar para la comunicación en foros de desarrolladores y plataformas de colaboración.
 
 ## 4) Casos de uso reales
-GitHub: Se utiliza como el estándar para crear archivos README, los cuales sirven para documentar repositorios, explicar cómo instalar software y presentar proyectos a la comunidad.
+GitHub: Se utiliza como el estándar para crear archivos README.md, los cuales sirven para documentar repositorios, explicar cómo instalar software y presentar proyectos a la comunidad.
 Documentación técnica: Es la herramienta predilecta para redactar manuales de usuario y guías para desarrolladores, ya que permite mantener un formato estructurado y profesional de forma sencilla.
 Blogs: Muchas plataformas de gestión de contenido (CMS) permiten redactar artículos directamente en Markdown para agilizar la publicación sin necesidad de usar editores visuales complejos.
 Notas personales: Diversas aplicaciones de productividad y organización (como Obsidian o Notion) emplean Markdown para que los usuarios puedan tomar notas rápidas, crear listas y organizar sus ideas de manera eficiente.
